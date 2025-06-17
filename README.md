@@ -33,7 +33,7 @@
 
 ### 📊 Dashboard de Vendas (Power BI)
 [https://github.com/Carllux/analise-vendas-olist-powerbi]
-> Análise completa de KPIs de vendas por categoria, região e canal, com indicadores de desempenho e metas dinâmicas.
+> Análise completa de KPIs de vendas por categoria, região e período, além de faixa monetária com indicadores de desempenho e metas dinâmicas.
 
 - Modelagem de dados no Power Query
 - Fórmulas DAX personalizadas
