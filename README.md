@@ -39,6 +39,15 @@
 - Fórmulas DAX personalizadas
 - Filtro interativo e visualização executiva
 
+🕸️ **Vitibrasil Analytics – Web Scraper e Padronização de Dados**  
+[https://github.com/Carllux/FIAP-TC-1]
+
+> Coleta automatizada de dados públicos da Embrapa sobre exportação de vinhos brasileiros (2008–2023), com padronização de nomes de países via fuzzy matching e enriquecimento com SQL para análises confiáveis em BI.
+
+- Web scraping com BeautifulSoup e Requests  
+- Limpeza e consolidação de dados com Pandas  
+- Padronização de textos com fuzzy matching (`fuzzywuzzy`)  
+- Pronto para dashboards e análises exploratórias
 
 ### 📫 Onde me encontrar:
 
