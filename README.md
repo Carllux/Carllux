@@ -41,7 +41,6 @@
 
 🕸️ **Vitibrasil Analytics – Web Scraper e Padronização de Dados**  
 [https://github.com/Carllux/FIAP-TC-1]
-
 > Coleta automatizada de dados públicos da Embrapa sobre exportação de vinhos brasileiros (2008–2023), com padronização de nomes de países via fuzzy matching e enriquecimento com SQL para análises confiáveis em BI.
 
 - Web scraping com BeautifulSoup e Requests  
