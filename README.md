@@ -7,7 +7,7 @@
 
 - 📍 Guarulhos, SP — Brasil  
 - 🎓 Pós-graduando em *Data Analytics* pela **FIAP**  
-- 👨‍💻 Técnico de Suporte JR com passagem por **Hospital Israelita Albert Einstein**  
+- 👨‍💻 Técnico de Suporte JR com passagem pela **SPREAD Tecnologia**  
 - 🔎 Experiência em análise de dados, suporte a sistemas e criação de dashboards  
 - 🧰 Ferramentas: `SQL`, `Power BI`, `Python`, `Node.js`, `GLPI`, `ITSM`
 
